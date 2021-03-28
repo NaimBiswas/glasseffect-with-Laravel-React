@@ -119,7 +119,7 @@ h2{
 }
 .startNowButton:hover{
     background: transparent;
-    border: 1px solid #1b1717;
+    border: 1px solid #bbbbbb;
     color: #1b1717;
     transition: 500ms;
 }
