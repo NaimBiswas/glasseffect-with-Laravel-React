@@ -1,0 +1,28 @@
+.StickyHeader{
+    background: #fe4237!important;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 99999;
+    box-shadow: 0px 1px 6px #424141a1;
+    transition: 400ms;
+}
+.nav-item a{
+
+    font-size: 21px;
+    color: #1b1717!important;
+    font-family: monospace;
+    font-weight: 700;
+    transition: 500ms;
+}
+.nav-item a:hover{
+    color: #48f9a9!important;
+    transition: 500ms;
+
+}
+.navbar-dark .navbar-brand {
+    color: #48f9a9!important;
+    font-size: 23px;
+    font-weight: 700;
+    font-family: cursive;
+}

@@ -1,12 +1,26 @@
-import React, { Fragment } from 'react'
+import React, { Fragment, useState } from 'react'
 import { NavLink } from 'react-router-dom'
+import "./Main.css"
 
 const Nav = () => {
+    const [Sticky, setSticky] = useState(false)
+
+
+    const ChangeNav = () => {
+        if (window.scrollY >= 70) {
+            setSticky(true)
+        }
+        else {
+            setSticky(false)
+        }
+    }
+    window.addEventListener('scroll', ChangeNav)
+
     return (
         <Fragment>
-            <nav style={{ background: '#e84545' }} className="navbar navbar-expand-lg navbar-dark ">
+            <nav style={{ transition: '400ms' }} className={`navbar navbar-expand-lg navbar-dark bg-danger ${Sticky ? 'StickyHeader' : ''}`}>
                 <NavLink className="navbar-brand" to="/">
-                    Navbar
+                    SEO
                  </NavLink>
                 <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
                     <span className="navbar-toggler-icon" />
@@ -20,7 +34,17 @@ const Nav = () => {
                         </li>
                         <li className="nav-item">
                             <NavLink className="nav-link" to="/#">
-                                Features
+                                Services
+                        </NavLink>
+                        </li>
+                        <li className="nav-item">
+                            <NavLink className="nav-link" to="/#">
+                                About Us
+                        </NavLink>
+                        </li>
+                        <li className="nav-item">
+                            <NavLink className="nav-link" to="/#">
+                                Compaines
                         </NavLink>
                         </li>
                         <li className="nav-item">
@@ -28,6 +52,14 @@ const Nav = () => {
                                 Pricing
                         </NavLink>
                         </li>
+                        <li className="nav-item">
+                            <NavLink className="nav-link" to="/#">
+                                Some Review
+                        </NavLink>
+                        </li>
+
+
+
                     </ul>
                     <NavLink className="btn btn-outline-warning my-2 my-sm-0" exact to="/login">
                         Login
