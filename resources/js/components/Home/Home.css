@@ -1,0 +1,131 @@
+.home{
+background-color: #08AEEA;
+background-image: linear-gradient(0deg, #08AEEA 0%, #2AF598 100%);
+
+}
+.LessSection{
+    background: inherit;
+
+    width:100%;
+    position: absolute;
+
+    overflow: hidden;
+z-index: 2;
+
+}
+.LessSection:before{
+ content:'';
+ background: inherit;
+ position: absolute;
+ left: 0;
+ right: 0;
+ top: 0;
+ bottom: 0;
+  box-shadow: inset 1px 1px 0 2105px rgb(255 255 255 / 34%);
+ backdrop-filter: blur(10px) saturate(100%) contrast(45%) brightness(130%);
+z-index: -1;
+margin: 15px;
+border-radius: 7px;
+}
+section{
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+.carousel-indicators{
+    display: none!important;
+}
+.caroselImage{
+        width: 57%;
+        margin: 30px;
+}
+.allCard{
+
+    text-align: center;
+    border: 1px solid beige;
+    border-radius: 35px;
+
+}
+.allCard .card{
+    background: transparent;
+border: none;
+
+}
+.pricingSection{
+    background-image: url('http://templates.thememodern.com/onum/images/shape2-home1.png');
+        background-position-x: left;
+    background-position-y: top;
+    background-repeat: no-repeat;
+    background-color: #f0f6ff;
+}
+h3{
+    color: #151515c4;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-weight: 500;
+    line-height: 72px;
+    font-family: fantasy;
+}
+h2{
+    color: #1b1717;
+    font-size: 64px;
+    font-weight: 900;
+    font-family: fantasy;
+    padding-bottom: 50px;
+    line-height: 80px;
+}
+.topHeaderSpan{
+    color: #e84545;
+}
+.InputArea{
+    background: #ffffff70;
+    width: 60%;
+    margin: 0 auto;
+    padding: 12px;
+    border-radius: 48px;
+}
+.InputArea input{
+    border: none;
+    background: transparent;
+    padding: 8px;
+    border-radius: 34px;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+.InputArea input:focus{
+    box-shadow: none;
+    outline: 0;
+}
+.SearchBarSpan{
+        color: #5656568f;
+    font-size: 28px;
+    font-weight: 300;
+    font-family: fangsong;
+}
+.startNowButton{
+
+    background: #e84545;
+     border: none;
+    border-radius: 50px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 40px;
+    padding-left: 40px;
+    margin-bottom: 4px;
+    font-size: 16px;
+    font-weight: 700;
+    font-family: unset;
+    color: #ffffff;
+    transition: 500ms;
+}
+.startNowButton:hover{
+    background: transparent;
+    border: 1px solid #2AF598;
+    color: #1b1717;
+    transition: 500ms;
+}
+.sectionBottom{
+        padding-top: 100px;
+}
+.sectionBottom img{
+        width: 70%;
+}
