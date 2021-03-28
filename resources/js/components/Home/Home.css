@@ -188,3 +188,11 @@ h2{
     margin-bottom: 50px;
 }
 
+.caroselImage{
+    filter: grayscale(1);
+    transition: 400ms;
+}
+.caroselImage:hover{
+    filter: grayscale(0);
+    transition: 400ms;
+}
