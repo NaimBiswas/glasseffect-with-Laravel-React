@@ -2508,6 +2508,7 @@ var Home = function Home() {
             children: /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_11__.jsxs)("div", {
               className: "pricingSection ",
               children: [/*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_11__.jsx)("img", {
+                className: "leftImage",
                 src: "http://templates.thememodern.com/onum/images/shape2-home1.png",
                 alt: ""
               }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_11__.jsx)("h4", {
@@ -2521,6 +2522,147 @@ var Home = function Home() {
               }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_11__.jsx)("p", {
                 className: "text-center",
                 children: "We have experience working with large and small businesses and are ready to develop a targeted strategy and plan that\u2019s just right for you."
+              }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_11__.jsx)("div", {
+                className: "container-fluid",
+                children: /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_11__.jsx)("div", {
+                  className: "container",
+                  children: /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_11__.jsxs)("div", {
+                    className: "row",
+                    children: [/*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_11__.jsx)("div", {
+                      className: "col-lg-4 col-md-4 col-sm-6 col-xs-12",
+                      children: /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_11__.jsx)("div", {
+                        className: "card-deck mb-3 text-center",
+                        children: /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_11__.jsxs)("div", {
+                          className: "card mb-4 box-shadow",
+                          children: [/*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_11__.jsx)("div", {
+                            className: "card-header",
+                            children: /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_11__.jsx)("h4", {
+                              className: "my-0 font-weight-normal",
+                              children: "STANDARD"
+                            })
+                          }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_11__.jsxs)("div", {
+                            className: "card-body",
+                            children: [/*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_11__.jsx)("img", {
+                              src: "http://templates.thememodern.com/onum/images/price1.png",
+                              alt: ""
+                            }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_11__.jsxs)("h1", {
+                              className: "card-title pricing-card-title",
+                              children: ["$ 69.99 ", /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_11__.jsx)("small", {
+                                className: "text-muted",
+                                children: "/ mo"
+                              })]
+                            }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_11__.jsxs)("ul", {
+                              className: "list-unstyled mt-3 mb-4",
+                              children: [/*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_11__.jsx)("li", {
+                                children: "Social Media Marketing"
+                              }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_11__.jsx)("li", {
+                                children: "2.100 Keywords"
+                              }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_11__.jsx)("li", {
+                                children: "One Way Link Building"
+                              }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_11__.jsx)("li", {
+                                children: "5 Free Optimization"
+                              }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_11__.jsx)("li", {
+                                children: "3 Press Releases"
+                              })]
+                            }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_11__.jsx)("button", {
+                              type: "button",
+                              className: "startNowButton",
+                              children: "Choose Plan"
+                            })]
+                          })]
+                        })
+                      })
+                    }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_11__.jsx)("div", {
+                      className: "col-lg-4 col-md-4 col-sm-6 col-xs-12",
+                      children: /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_11__.jsx)("div", {
+                        className: "card-deck mb-3 text-center",
+                        children: /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_11__.jsxs)("div", {
+                          className: "card mb-4 box-shadow",
+                          children: [/*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_11__.jsx)("div", {
+                            className: "card-header",
+                            children: /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_11__.jsx)("h4", {
+                              className: "my-0 font-weight-normal",
+                              children: "ECONOMY"
+                            })
+                          }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_11__.jsxs)("div", {
+                            className: "card-body",
+                            children: [/*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_11__.jsx)("img", {
+                              src: "http://templates.thememodern.com/onum/images/price2-1.png",
+                              alt: ""
+                            }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_11__.jsxs)("h1", {
+                              className: "card-title pricing-card-title",
+                              children: ["$ 79.99 ", /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_11__.jsx)("small", {
+                                className: "text-muted",
+                                children: "/ mo"
+                              })]
+                            }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_11__.jsxs)("ul", {
+                              className: "list-unstyled mt-3 mb-4",
+                              children: [/*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_11__.jsx)("li", {
+                                children: "Social Media Marketing"
+                              }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_11__.jsx)("li", {
+                                children: "3.100 Keywords"
+                              }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_11__.jsx)("li", {
+                                children: "  One Way Link Building"
+                              }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_11__.jsx)("li", {
+                                children: "10 Free Optimization"
+                              }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_11__.jsx)("li", {
+                                children: "5 Press Releases"
+                              })]
+                            }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_11__.jsx)("button", {
+                              type: "button",
+                              className: "startNowButton",
+                              children: "Choose Plan"
+                            })]
+                          })]
+                        })
+                      })
+                    }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_11__.jsx)("div", {
+                      className: "col-lg-4 col-md-4 col-sm-6 col-xs-12",
+                      children: /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_11__.jsx)("div", {
+                        className: "card-deck mb-3 text-center",
+                        children: /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_11__.jsxs)("div", {
+                          className: "card mb-4 box-shadow",
+                          children: [/*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_11__.jsx)("div", {
+                            className: "card-header",
+                            children: /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_11__.jsx)("h4", {
+                              className: "my-0 font-weight-normal",
+                              children: "EXECUTIVE"
+                            })
+                          }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_11__.jsxs)("div", {
+                            className: "card-body",
+                            children: [/*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_11__.jsx)("img", {
+                              src: "http://templates.thememodern.com/onum/images/price3-1.png",
+                              alt: ""
+                            }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_11__.jsxs)("h1", {
+                              className: "card-title pricing-card-title",
+                              children: ["$ 89.99", /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_11__.jsx)("small", {
+                                className: "text-muted",
+                                children: "/ mo"
+                              })]
+                            }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_11__.jsxs)("ul", {
+                              className: "list-unstyled mt-3 mb-4",
+                              children: [/*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_11__.jsx)("li", {
+                                children: "Social Media Marketing"
+                              }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_11__.jsx)("li", {
+                                children: "5.100 Keywords"
+                              }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_11__.jsx)("li", {
+                                children: "One Way Link Building"
+                              }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_11__.jsx)("li", {
+                                children: " 15 Free Optimization"
+                              }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_11__.jsx)("li", {
+                                children: "10 Press Releases"
+                              })]
+                            }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_11__.jsx)("button", {
+                              type: "button",
+                              className: "startNowButton",
+                              children: "Choose Plan"
+                            })]
+                          })]
+                        })
+                      })
+                    })]
+                  })
+                })
               })]
             })
           })]
@@ -7340,7 +7482,7 @@ __webpack_require__.r(__webpack_exports__);
 
 var ___CSS_LOADER_EXPORT___ = _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_0___default()(function(i){return i[1]});
 // Module
-___CSS_LOADER_EXPORT___.push([module.id, ".home{\nbackground-color: #08AEEA;\nbackground-image: linear-gradient(0deg, #08AEEA 0%, #2AF598 100%);\n\n}\n.LessSection{\n    background: inherit;\n\n    width:100%;\n    position: absolute;\n\n    overflow: hidden;\nz-index: 2;\n\n}\n.LessSection:before{\n content:'';\n background: inherit;\n position: absolute;\n left: 0;\n right: 0;\n top: 0;\n bottom: 0;\n  box-shadow: inset 1px 1px 0 2105px rgb(255 255 255 / 34%);\n -webkit-backdrop-filter: blur(10px) saturate(100%) contrast(45%) brightness(130%);\n         backdrop-filter: blur(10px) saturate(100%) contrast(45%) brightness(130%);\nz-index: -1;\nmargin: 15px;\nborder-radius: 7px;\n}\nsection{\n    padding-top: 70px;\n    padding-bottom: 70px;\n}\n.carousel-indicators{\n    display: none!important;\n}\n.caroselImage{\n        width: 57%;\n        margin: 30px;\n}\n.allCard{\n\n\n\n}\n.allCard .card{\n    background: transparent;\n    border: none;\n    margin: 0px;\n    margin-top: -12px;\n    padding: 29px;\n    transition: 400ms;\n}\n.allCard .card::before{\n    margin-right: 3px;\n}\n.allCard .card:hover{\n\n    filter: invert(10);\n    transition: 400ms;\n\n}\n.allCard .SvgCard{\n    margin-bottom: 15px;\n}\n\nh3{\n    color: #151515c4;\n    text-transform: uppercase;\n    letter-spacing: 2px;\n    font-weight: 500;\n    line-height: 72px;\n    font-family: fantasy;\n}\nh2{\n    color: #1b1717;\n    font-size: 64px;\n    font-weight: 900;\n    font-family: fantasy;\n    padding-bottom: 50px;\n    line-height: 80px;\n}\n.topHeaderSpan{\n    color: #e84545;\n}\n.InputArea{\n    background: #ffffff70;\n    width: 60%;\n    margin: 0 auto;\n    padding: 12px;\n    border-radius: 48px;\n}\n.InputArea input{\n    border: none;\n    background: transparent;\n    padding: 8px;\n    border-radius: 34px;\n    margin-right: 10px;\n    margin-left: 10px;\n}\n.InputArea input:focus{\n    box-shadow: none;\n    outline: 0;\n}\n.SearchBarSpan{\n        color: #5656568f;\n    font-size: 28px;\n    font-weight: 300;\n    font-family: fangsong;\n}\n.startNowButton{\n\n    background: #e84545;\n     border: none;\n    border-radius: 50px;\n    padding-top: 10px;\n    padding-bottom: 10px;\n    padding-right: 40px;\n    padding-left: 40px;\n    margin-bottom: 4px;\n    font-size: 16px;\n    font-weight: 700;\n    font-family: unset;\n    color: #ffffff;\n    transition: 500ms;\n   box-shadow: 3px 5px 12px 0px #e845458c;\n}\n.startNowButton:hover{\n    background: transparent;\n    border: 1px solid #bbbbbb;\n    color: #1b1717;\n    transition: 500ms;\n    box-shadow: none;\n}\n.sectionBottom{\n        padding-top: 100px;\n}\n.sectionBottom img{\n        width: 70%;\n}\n.SvgCard{\n        background: #fff;\n    padding: 23px;\n    border-radius: 50px;\n}\n.secondSection .card-title{\n    text-align: center;\n    margin-top: 15px;\n    margin-bottom: 25px;\n}\n.secondSection .card{\n    text-align: center;\n    transition: 500ms;\n}\n.card h6{\n    font-size: 18px;\n    color: #151515c4!important;\n        font-weight: 700;\n    font-family: inherit;\n}\n.card p{\n       font-size: 15px;\n    color: #1b1717;\n    font-weight: 700;\n}\n.secondSection .card:hover{\n       filter: grayscale(1);\n       transition: 500ms;\n}\n\n.aboutUsSection h4{\n        color: #636363;\n    font-size: 28px;\n    font-weight: 700;\n    font-family: monospace;\n    padding-top: 54px;\n}\n.aboutUsSection h2{\n        padding-top: 20px;\n    font-family: cursive;\n    font-size: 55px;\n    line-height: 60px;\n}\n.firstPera{\n    font-size: 22px;\n    line-height: 36px;\n    width: 92%;\n    font-family: inherit;\n    margin-top: -15px;\n}\n.secondPera{\n     font-size:18px;\n    line-height: 36px;\n    width: 92%;\n    font-family: inherit;\n    color: #606060;\n    margin-bottom: 50px;\n}\n\n.caroselImage{\n    filter: grayscale(1);\n    transition: 400ms;\n    opacity: .7;\n}\n.caroselImage:hover{\n    filter: grayscale(0);\n    transition: 400ms;\n    opacity: 1;\n}\n.pricingSection{\n    position: relative;\n}\n.pricingSection img{\n    position: absolute;\n    top: -100px;\n    left: 0;\n    content: \"\";\n\n}\n.pricingSection h4{\n    color: #636363;\n    font-size: 28px;\n    font-weight: 700;\n    font-family: monospace;\n    padding-top: 54px;\n}\n\n.pricingSection h5{\n        padding-top: 20px;\n    font-family: cursive;\n    font-size: 55px;\n    line-height: 60px;\n    margin-bottom:30px;\n}\n.pricingSection p{\n    width: 62%;\n    font-family: inherit;\n    margin: 0 auto;\n      font-size:18px;\n    line-height: 36px;\n    color: #606060;\n    margin-bottom: 50px;\n}\n", ""]);
+___CSS_LOADER_EXPORT___.push([module.id, ".home{\nbackground-color: #08AEEA;\nbackground-image: linear-gradient(0deg, #08AEEA 0%, #2AF598 100%);\n\n}\n.LessSection{\n    background: inherit;\n\n    width:100%;\n    position: absolute;\n\n    overflow: hidden;\nz-index: 2;\n\n}\n.LessSection:before{\n content:'';\n background: inherit;\n position: absolute;\n left: 0;\n right: 0;\n top: 0;\n bottom: 0;\n  box-shadow: inset 1px 1px 0 2105px rgb(255 255 255 / 34%);\n -webkit-backdrop-filter: blur(10px) saturate(100%) contrast(45%) brightness(130%);\n         backdrop-filter: blur(10px) saturate(100%) contrast(45%) brightness(130%);\nz-index: -1;\nmargin: 15px;\nborder-radius: 7px;\n}\nsection{\n    padding-top: 70px;\n    padding-bottom: 70px;\n}\n.carousel-indicators{\n    display: none!important;\n}\n.caroselImage{\n        width: 57%;\n        margin: 30px;\n}\n.allCard{\n\n\n\n}\n.allCard .card{\n    background: transparent;\n    border: none;\n    margin: 0px;\n    margin-top: -12px;\n    padding: 29px;\n    transition: 400ms;\n}\n.allCard .card::before{\n    margin-right: 3px;\n}\n.allCard .card:hover{\n\n    filter: invert(10);\n    transition: 400ms;\n\n}\n.allCard .SvgCard{\n    margin-bottom: 15px;\n}\n\nh3{\n    color: #151515c4;\n    text-transform: uppercase;\n    letter-spacing: 2px;\n    font-weight: 500;\n    line-height: 72px;\n    font-family: fantasy;\n}\nh2{\n    color: #1b1717;\n    font-size: 64px;\n    font-weight: 900;\n    font-family: fantasy;\n    padding-bottom: 50px;\n    line-height: 80px;\n}\n.topHeaderSpan{\n    color: #e84545;\n}\n.InputArea{\n    background: #ffffff70;\n    width: 60%;\n    margin: 0 auto;\n    padding: 12px;\n    border-radius: 48px;\n}\n.InputArea input{\n    border: none;\n    background: transparent;\n    padding: 8px;\n    border-radius: 34px;\n    margin-right: 10px;\n    margin-left: 10px;\n}\n.InputArea input:focus{\n    box-shadow: none;\n    outline: 0;\n}\n.SearchBarSpan{\n        color: #5656568f;\n    font-size: 28px;\n    font-weight: 300;\n    font-family: fangsong;\n}\n.startNowButton{\n\n    background: #e84545;\n     border: none;\n    border-radius: 50px;\n    padding-top: 10px;\n    padding-bottom: 10px;\n    padding-right: 40px;\n    padding-left: 40px;\n    margin-bottom: 4px;\n    font-size: 16px;\n    font-weight: 700;\n    font-family: unset;\n    color: #ffffff;\n    transition: 500ms;\n   box-shadow: 3px 5px 12px 0px #e845458c;\n}\n.startNowButton:hover{\n    background: transparent;\n    border: 1px solid #bbbbbb;\n    color: #1b1717;\n    transition: 500ms;\n    box-shadow: none;\n}\n.sectionBottom{\n        padding-top: 100px;\n}\n.sectionBottom img{\n        width: 70%;\n}\n.SvgCard{\n        background: #fff;\n    padding: 23px;\n    border-radius: 50px;\n}\n.secondSection .card-title{\n    text-align: center;\n    margin-top: 15px;\n    margin-bottom: 25px;\n}\n.secondSection .card{\n    text-align: center;\n    transition: 500ms;\n}\n.card h6{\n    font-size: 18px;\n    color: #151515c4!important;\n        font-weight: 700;\n    font-family: inherit;\n}\n.card p{\n       font-size: 15px;\n    color: #1b1717;\n    font-weight: 700;\n}\n.secondSection .card:hover{\n       filter: grayscale(1);\n       transition: 500ms;\n}\n\n.aboutUsSection h4{\n        color: #636363;\n    font-size: 28px;\n    font-weight: 700;\n    font-family: monospace;\n    padding-top: 54px;\n}\n.aboutUsSection h2{\n        padding-top: 20px;\n    font-family: cursive;\n    font-size: 55px;\n    line-height: 60px;\n}\n.firstPera{\n    font-size: 22px;\n    line-height: 36px;\n    width: 92%;\n    font-family: inherit;\n    margin-top: -15px;\n}\n.secondPera{\n     font-size:18px;\n    line-height: 36px;\n    width: 92%;\n    font-family: inherit;\n    color: #606060;\n    margin-bottom: 50px;\n}\n\n.caroselImage{\n    filter: grayscale(1);\n    transition: 400ms;\n    opacity: .7;\n}\n.caroselImage:hover{\n    filter: grayscale(0);\n    transition: 400ms;\n    opacity: 1;\n}\n.pricingSection{\n    position: relative;\n}\n.pricingSection .leftImage{\n    position: absolute;\n    top: -100px;\n    left: 0;\n    content: \"\";\n\n}\n.pricingSection h4{\n    color: #636363;\n    font-size: 28px;\n    font-weight: 700;\n    font-family: monospace;\n    padding-top: 54px;\n}\n\n.pricingSection h5{\n        padding-top: 20px;\n    font-family: cursive;\n    font-size: 55px;\n    line-height: 60px;\n    margin-bottom:30px;\n}\n.pricingSection p{\n    width: 62%;\n    font-family: inherit;\n    margin: 0 auto;\n      font-size:18px;\n    line-height: 36px;\n    color: #606060;\n    margin-bottom: 50px;\n}\n.pricingSection .card .card-header {\n    background: none;\n    border-bottom: none;\n}\n.pricingSection .card .card-header h4{\n\n    position: absolute;\n    font-size: 22px;\n    background: #e84545;\n    top: 27px;\n    left: 0;\n    padding: 7px!important;\n    border-radius: 0px 30px 30px 0px;\n    padding-right: 22px!important;\n        color: #fff;\n            font-size: 18px;\n    letter-spacing: 1px;\n     box-shadow: 3px 5px 12px 0px #e845458c;\n}\n.pricingSection .card .card-body{\n\n    height: 450px;\n}\n\n", ""]);
 // Exports
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (___CSS_LOADER_EXPORT___);
 

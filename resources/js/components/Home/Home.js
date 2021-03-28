@@ -326,11 +326,118 @@ const Home = () => {
 
                         <section>
                             <div className="pricingSection ">
-                                <img src="http://templates.thememodern.com/onum/images/shape2-home1.png" alt="" />
+                                <img className="leftImage" src="http://templates.thememodern.com/onum/images/shape2-home1.png" alt="" />
                                 <h4 className="text-center"><li>CHOOSE YOUR PLAN</li></h4>
                                 <h5 className="text-center"> Flexible Pricing Plans</h5>
                                 <p className="text-center">We have experience working with large and small businesses and are ready to
                                    develop a targeted strategy and plan that’s just right for you.</p>
+
+
+                                <div className="container-fluid">
+                                    <div className="container">
+                                        <div className="row">
+                                            {/* price card */}
+
+
+                                            <div className="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+
+
+                                                <div className="card-deck mb-3 text-center">
+                                                    <div className="card mb-4 box-shadow">
+                                                        <div className="card-header">
+                                                            <h4 className="my-0 font-weight-normal">STANDARD</h4>
+                                                        </div>
+                                                        <div className="card-body">
+                                                            <img src="http://templates.thememodern.com/onum/images/price1.png" alt="" />
+                                                            <h1 className="card-title pricing-card-title">$ 69.99 <small className="text-muted">/ mo</small></h1>
+
+                                                            <ul className="list-unstyled mt-3 mb-4">
+
+                                                                <li>Social Media Marketing</li>
+
+
+
+
+                                                                <li>2.100 Keywords</li>
+                                                                <li>One Way Link Building</li>
+                                                                <li>5 Free Optimization</li>
+                                                                <li>3 Press Releases</li>
+                                                            </ul>
+                                                            <button type="button" className="startNowButton">Choose Plan</button>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                            <div className="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+
+
+                                                <div className="card-deck mb-3 text-center">
+                                                    <div className="card mb-4 box-shadow">
+                                                        <div className="card-header">
+                                                            <h4 className="my-0 font-weight-normal">ECONOMY</h4>
+                                                        </div>
+                                                        <div className="card-body">
+                                                            <img src="http://templates.thememodern.com/onum/images/price2-1.png" alt="" />
+                                                            <h1 className="card-title pricing-card-title">$ 79.99 <small className="text-muted">/ mo</small></h1>
+                                                            <ul className="list-unstyled mt-3 mb-4">
+                                                                <li>Social Media Marketing</li>
+                                                                <li>3.100 Keywords</li>
+                                                                <li>  One Way Link Building</li>
+                                                                <li>10 Free Optimization</li>
+                                                                <li>5 Press Releases</li>
+                                                            </ul>
+                                                            <button type="button" className="startNowButton">Choose Plan</button>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                            <div className="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+
+
+                                                <div className="card-deck mb-3 text-center">
+                                                    <div className="card mb-4 box-shadow">
+                                                        <div className="card-header">
+                                                            <h4 className="my-0 font-weight-normal">EXECUTIVE</h4>
+                                                        </div>
+                                                        <div className="card-body">
+                                                            <img src="http://templates.thememodern.com/onum/images/price3-1.png" alt="" />
+                                                            <h1 className="card-title pricing-card-title">$ 89.99<small className="text-muted">/ mo</small></h1>
+                                                            <ul className="list-unstyled mt-3 mb-4">
+                                                                <li>Social Media Marketing</li>
+                                                                <li>5.100 Keywords</li>
+                                                                <li>One Way Link Building</li>
+                                                                <li> 15 Free Optimization</li>
+                                                                <li>10 Press Releases</li>
+
+
+
+
+
+
+                                                            </ul>
+                                                            <button type="button" className="startNowButton">Choose Plan</button>
+                                                        </div>
+                                                    </div>
+                                                </div>
+
+                                            </div>
+
+
+
+
+
+
+
+
+
+
+
+                                        </div>
+                                    </div>
+                                </div>
+
                             </div>
                         </section>
 
@@ -338,7 +445,7 @@ const Home = () => {
                 </div>
             </div>
 
-        </Fragment>
+        </Fragment >
     )
 }
 
