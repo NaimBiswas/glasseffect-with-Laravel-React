@@ -44,13 +44,15 @@ const Home = () => {
                                             <div className="card" >
                                                 <div className="card-body">
                                                     <h5 className="card-title">
-                                                        <img src={Rocket} alt="" />
+                                                        <img className="SvgCard" src={Rocket} alt="" />
                                                     </h5>
-                                                    <h6 className="card-subtitle mb-2 text-muted">Card subtitle</h6>
+                                                    <h6 className="card-subtitle mb-2 ">Awesome Results</h6>
                                                     <p className="card-text">
-                                                        Content
+                                                        We have seen great successes with everyone companies.
                                                       </p>
-                                                    <a href="/#" className="card-link">Card link</ a>
+                                                    <a href="#"><button className="startNowButton">
+                                                        Learn More
+                                                    </button></a>
                                                 </div>
                                             </div>
                                         </div>
@@ -60,13 +62,15 @@ const Home = () => {
                                             <div className="card" >
                                                 <div className="card-body">
                                                     <h5 className="card-title">
-                                                        <img src={Settings} alt="" />
+                                                        <img className="SvgCard" src={Settings} alt="" />
                                                     </h5>
-                                                    <h6 className="card-subtitle mb-2 text-muted">Card subtitle</h6>
+                                                    <h6 className="card-subtitle mb-2 ">All Sizes Business</h6>
                                                     <p className="card-text">
-                                                        Content
+                                                        Every business and industry requires an approach.
                                                       </p>
-                                                    <a href="/#" className="card-link">Card link</ a>
+                                                    <a href="#"><button className="startNowButton">
+                                                        Learn More
+                                                    </button></a>
                                                 </div>
                                             </div>
                                         </div>
@@ -76,13 +80,15 @@ const Home = () => {
                                             <div className="card" >
                                                 <div className="card-body">
                                                     <h5 className="card-title">
-                                                        <img src={Data} alt="" />
+                                                        <img className="SvgCard" src={Data} alt="" />
                                                     </h5>
-                                                    <h6 className="card-subtitle mb-2 text-muted">Card subtitle</h6>
+                                                    <h6 className="card-subtitle mb-2 ">Keep you in the Loop</h6>
                                                     <p className="card-text">
-                                                        Content
+                                                        You make sure you know how campaign is performing.
                                                       </p>
-                                                    <a href="/#" className="card-link">Card link</ a>
+                                                    <a href="#"><button className="startNowButton">
+                                                        Learn More
+                                                    </button></a>
                                                 </div>
                                             </div>
                                         </div>
@@ -92,13 +98,15 @@ const Home = () => {
                                             <div className="card" >
                                                 <div className="card-body">
                                                     <h5 className="card-title">
-                                                        <img src={World} alt="" />
+                                                        <img className="SvgCard" src={World} alt="" />
                                                     </h5>
-                                                    <h6 className="card-subtitle mb-2 text-muted">Card subtitle</h6>
+                                                    <h6 className="card-subtitle mb-2 ">Significant ROI</h6>
                                                     <p className="card-text">
-                                                        Content
+                                                        To generate highly focused leads ready to purchases.
                                                       </p>
-                                                    <a href="/#" className="card-link">Card link</ a>
+                                                    <a href="#"><button className="startNowButton">
+                                                        Learn More
+                                                    </button></a>
                                                 </div>
                                             </div>
                                         </div>

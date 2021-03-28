@@ -119,7 +119,7 @@ h2{
 }
 .startNowButton:hover{
     background: transparent;
-    border: 1px solid #2AF598;
+    border: 1px solid #1b1717;
     color: #1b1717;
     transition: 500ms;
 }
@@ -128,4 +128,33 @@ h2{
 }
 .sectionBottom img{
         width: 70%;
+}
+.SvgCard{
+        background: #fff;
+    padding: 23px;
+    border-radius: 50px;
+}
+.secondSection .card-title{
+    text-align: center;
+    margin-top: 15px;
+    margin-bottom: 25px;
+}
+.secondSection .card{
+    text-align: center;
+    transition: 500ms;
+}
+.card h6{
+    font-size: 18px;
+    color: #151515c4!important;
+        font-weight: 700;
+    font-family: inherit;
+}
+.card p{
+       font-size: 15px;
+    color: #1b1717;
+    font-weight: 700;
+}
+.secondSection .card:hover{
+       filter: grayscale(1);
+       transition: 500ms;
 }
