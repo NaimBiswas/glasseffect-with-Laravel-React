@@ -21,6 +21,7 @@ const Home = () => {
                 <div className="LessSection">
                     <div className="content">
 
+                        {/* top section  */}
                         <section>
                             <div className="container text-center ">
                                 <h3>WHAT'S YOUR SEO SCORE</h3>
@@ -43,6 +44,7 @@ const Home = () => {
                         </section>
 
 
+                        {/* sercives section  */}
                         <section>
                             <div className="secondSection">
                                 <div className="container">
@@ -129,12 +131,12 @@ const Home = () => {
                             </div>
                         </section>
 
-
+                        {/* about section  */}
                         <section className='aboutUsSection'>
                             <div className="container-fluid">
                                 <div className="row">
                                     <div className="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-                                        <img src="http://templates.thememodern.com/onum/images/seo-home1.png" alt="" />
+                                        <img className="ml-2" src="http://templates.thememodern.com/onum/images/seo-home1.png" alt="" />
                                     </div>
 
 
@@ -204,7 +206,7 @@ const Home = () => {
                                 </div>
                             </div>
                         </section>
-
+                        {/* card Section  */}
                         <section>
                             <div className="container allCard">
                                 <div className="row">
@@ -324,6 +326,7 @@ const Home = () => {
                             </div>
                         </section>
 
+                        {/* pricing section  */}
                         <section>
                             <div className="pricingSection ">
                                 <img className="leftImage" src="http://templates.thememodern.com/onum/images/shape2-home1.png" alt="" />
@@ -349,7 +352,7 @@ const Home = () => {
                                                         </div>
                                                         <div className="card-body">
                                                             <img src="http://templates.thememodern.com/onum/images/price1.png" alt="" />
-                                                            <h1 className="card-title pricing-card-title">$ 69.99 <small className="text-muted">/ mo</small></h1>
+                                                            <h1 className="card-title pricing-card-title">$ 69.99<small className="text-muted">/ mo</small></h1>
 
                                                             <ul className="list-unstyled mt-3 mb-4">
 
@@ -363,7 +366,7 @@ const Home = () => {
                                                                 <li>5 Free Optimization</li>
                                                                 <li>3 Press Releases</li>
                                                             </ul>
-                                                            <button type="button" className="startNowButton">Choose Plan</button>
+                                                            <button type="button" className="startNowButton mt-4">Choose Plan</button>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -379,7 +382,7 @@ const Home = () => {
                                                         </div>
                                                         <div className="card-body">
                                                             <img src="http://templates.thememodern.com/onum/images/price2-1.png" alt="" />
-                                                            <h1 className="card-title pricing-card-title">$ 79.99 <small className="text-muted">/ mo</small></h1>
+                                                            <h1 className="card-title pricing-card-title">$ 79.99<small className="text-muted">/ mo</small></h1>
                                                             <ul className="list-unstyled mt-3 mb-4">
                                                                 <li>Social Media Marketing</li>
                                                                 <li>3.100 Keywords</li>
@@ -387,7 +390,7 @@ const Home = () => {
                                                                 <li>10 Free Optimization</li>
                                                                 <li>5 Press Releases</li>
                                                             </ul>
-                                                            <button type="button" className="startNowButton">Choose Plan</button>
+                                                            <button type="button" className="startNowButton mt-4">Choose Plan</button>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -417,7 +420,7 @@ const Home = () => {
 
 
                                                             </ul>
-                                                            <button type="button" className="startNowButton">Choose Plan</button>
+                                                            <button type="button" className="startNowButton mt-4">Choose Plan</button>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -441,6 +444,10 @@ const Home = () => {
                             </div>
                         </section>
 
+                        {/* review section  */}
+                        <section>
+
+                        </section>
                     </div>
                 </div>
             </div>

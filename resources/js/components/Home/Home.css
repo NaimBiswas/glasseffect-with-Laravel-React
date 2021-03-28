@@ -245,6 +245,9 @@ h2{
     background: none;
     border-bottom: none;
 }
+.pricing-card-title{
+    color: #e84545;
+}
 .pricingSection .card .card-header h4{
 
     position: absolute;
