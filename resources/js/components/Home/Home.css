@@ -158,3 +158,20 @@ h2{
        filter: grayscale(1);
        transition: 500ms;
 }
+
+.aboutUsSection h4{
+        color: #636363;
+    font-size: 28px;
+    font-weight: 700;
+    font-family: monospace;
+    padding-top: 54px;
+}
+.aboutUsSection h2{
+        padding-top: 20px;
+    font-family: cursive;
+    font-size: 55px;
+    line-height: 60px;
+}
+
+
+
