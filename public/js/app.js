@@ -2124,7 +2124,17 @@ var Home = function Home() {
                         className: "card-body",
                         children: [/*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_2__.jsx)("h5", {
                           className: "card-title",
-                          children: "Card title"
+                          children: /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_2__.jsxs)("div", {
+                            children: ["Icons made by ", /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_2__.jsx)("a", {
+                              href: "https://www.freepik.com",
+                              title: "Freepik",
+                              children: "Freepik"
+                            }), " from ", /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_2__.jsx)("a", {
+                              href: "https://www.flaticon.com/",
+                              title: "Flaticon",
+                              children: "www.flaticon.com"
+                            })]
+                          })
                         }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_2__.jsx)("h6", {
                           className: "card-subtitle mb-2 text-muted",
                           children: "Card subtitle"

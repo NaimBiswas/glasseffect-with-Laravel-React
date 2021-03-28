@@ -39,7 +39,7 @@ const Home = () => {
                                         <div className="col-lg-3 col-md-3 col-sm-6 col-xs-12">
                                             <div className="card" >
                                                 <div className="card-body">
-                                                    <h5 className="card-title">Card title</h5>
+                                                    <h5 className="card-title"><div>Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div></h5>
                                                     <h6 className="card-subtitle mb-2 text-muted">Card subtitle</h6>
                                                     <p className="card-text">
                                                         Content
