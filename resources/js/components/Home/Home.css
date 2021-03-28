@@ -172,6 +172,19 @@ h2{
     font-size: 55px;
     line-height: 60px;
 }
-
-
+.firstPera{
+    font-size: 22px;
+    line-height: 36px;
+    width: 92%;
+    font-family: inherit;
+    margin-top: -15px;
+}
+.secondPera{
+     font-size:18px;
+    line-height: 36px;
+    width: 92%;
+    font-family: inherit;
+    color: #606060;
+    margin-bottom: 50px;
+}
 

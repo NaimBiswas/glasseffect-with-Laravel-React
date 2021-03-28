@@ -142,7 +142,7 @@ const Home = () => {
                                             Over the years, we have worked with Fortune 500s and brand-new startups. We help ambitious businesses like yours generate more profits by building awareness, driving web traffic, connecting with customers, and growing overall sales. Give us a call.
                                         </p>
 
-                                        <button>Learn More</button>
+                                        <button className="startNowButton">Learn More</button>
                                     </div>
                                 </div>
                             </div>
