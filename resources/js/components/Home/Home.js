@@ -204,80 +204,111 @@ const Home = () => {
                                     <div className="col-lg-4 p-0 m-0">
                                         <div className="card" >
                                             <div className="card-body">
-                                                <h5 className="card-title">Card title</h5>
-                                                <h6 className="card-subtitle mb-2 text-muted">Card subtitle</h6>
+                                                <h5 className="card-title">
+                                                    <img className="SvgCard" src={Rocket} alt="" />
+                                                </h5>
+                                                <h6 className="card-subtitle mb-2 ">Awesome Results</h6>
                                                 <p className="card-text">
-                                                    Content
-                                        </p>
-                                                <a href="/#" className="card-link">Card link</ a>
+                                                    We have seen great successes with everyone companies.
+                                                      </p>
+                                                <a href="#"><button className="startNowButton">
+                                                    Learn More
+                                                    </button></a>
                                             </div>
                                         </div>
                                     </div>
 
-                                    <div className="col-lg-4 p-0 m-0">
-                                        <div className="card" >
-                                            <div className="card-body">
-                                                <h5 className="card-title">Card title</h5>
-                                                <h6 className="card-subtitle mb-2 text-muted">Card subtitle</h6>
-                                                <p className="card-text">
-                                                    Content
-                                        </p>
-                                                <a href="/#" className="card-link">Card link</ a>
-                                            </div>
-                                        </div>
-                                    </div>
 
                                     <div className="col-lg-4 p-0 m-0">
                                         <div className="card" >
                                             <div className="card-body">
-                                                <h5 className="card-title">Card title</h5>
-                                                <h6 className="card-subtitle mb-2 text-muted">Card subtitle</h6>
+                                                <h5 className="card-title">
+                                                    <img className="SvgCard" src={Rocket} alt="" />
+                                                </h5>
+                                                <h6 className="card-subtitle mb-2 ">Awesome Results</h6>
                                                 <p className="card-text">
-                                                    Content
-                                        </p>
-                                                <a href="/#" className="card-link">Card link</ a>
+                                                    We have seen great successes with everyone companies.
+                                                      </p>
+                                                <a href="#"><button className="startNowButton">
+                                                    Learn More
+                                                    </button></a>
                                             </div>
                                         </div>
                                     </div>
 
-                                    <div className="col-lg-4 p-0 m-0">
-                                        <div className="card" >
-                                            <div className="card-body">
-                                                <h5 className="card-title">Card title</h5>
-                                                <h6 className="card-subtitle mb-2 text-muted">Card subtitle</h6>
-                                                <p className="card-text">
-                                                    Content
-                                        </p>
-                                                <a href="/#" className="card-link">Card link</ a>
-                                            </div>
-                                        </div>
-                                    </div>
 
                                     <div className="col-lg-4 p-0 m-0">
                                         <div className="card" >
                                             <div className="card-body">
-                                                <h5 className="card-title">Card title</h5>
-                                                <h6 className="card-subtitle mb-2 text-muted">Card subtitle</h6>
+                                                <h5 className="card-title">
+                                                    <img className="SvgCard" src={Rocket} alt="" />
+                                                </h5>
+                                                <h6 className="card-subtitle mb-2 ">Awesome Results</h6>
                                                 <p className="card-text">
-                                                    Content
-                                        </p>
-                                                <a href="/#" className="card-link">Card link</ a>
+                                                    We have seen great successes with everyone companies.
+                                                      </p>
+                                                <a href="#"><button className="startNowButton">
+                                                    Learn More
+                                                    </button></a>
                                             </div>
                                         </div>
                                     </div>
 
+
                                     <div className="col-lg-4 p-0 m-0">
                                         <div className="card" >
                                             <div className="card-body">
-                                                <h5 className="card-title">Card title</h5>
-                                                <h6 className="card-subtitle mb-2 text-muted">Card subtitle</h6>
+                                                <h5 className="card-title">
+                                                    <img className="SvgCard" src={Rocket} alt="" />
+                                                </h5>
+                                                <h6 className="card-subtitle mb-2 ">Awesome Results</h6>
                                                 <p className="card-text">
-                                                    Content
-                                        </p>
-                                                <a href="/#" className="card-link">Card link</ a>
+                                                    We have seen great successes with everyone companies.
+                                                      </p>
+                                                <a href="#"><button className="startNowButton">
+                                                    Learn More
+                                                    </button></a>
                                             </div>
                                         </div>
                                     </div>
+
+
+                                    <div className="col-lg-4 p-0 m-0">
+                                        <div className="card" >
+                                            <div className="card-body">
+                                                <h5 className="card-title">
+                                                    <img className="SvgCard" src={Rocket} alt="" />
+                                                </h5>
+                                                <h6 className="card-subtitle mb-2 ">Awesome Results</h6>
+                                                <p className="card-text">
+                                                    We have seen great successes with everyone companies.
+                                                      </p>
+                                                <a href="#"><button className="startNowButton">
+                                                    Learn More
+                                                    </button></a>
+                                            </div>
+                                        </div>
+                                    </div>
+
+
+                                    <div className="col-lg-4 p-0 m-0">
+                                        <div className="card" >
+                                            <div className="card-body">
+                                                <h5 className="card-title">
+                                                    <img className="SvgCard" src={Rocket} alt="" />
+                                                </h5>
+                                                <h6 className="card-subtitle mb-2 ">Awesome Results</h6>
+                                                <p className="card-text">
+                                                    We have seen great successes with everyone companies.
+                                                      </p>
+                                                <a href="#"><button className="startNowButton">
+                                                    Learn More
+                                                    </button></a>
+                                            </div>
+                                        </div>
+                                    </div>
+
+
 
 
 

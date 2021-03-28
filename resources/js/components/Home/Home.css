@@ -40,14 +40,24 @@ section{
 }
 .allCard{
 
-    text-align: center;
-    border: 1px solid beige;
-    border-radius: 35px;
+
 
 }
 .allCard .card{
     background: transparent;
-border: none;
+    border: none;
+    margin: 0px;
+    margin-top: -12px;
+    padding: 29px;
+    transition: 400ms;
+}
+.allCard .card::before{
+    margin-right: 3px;
+}
+.allCard .card:hover{
+
+    filter: invert(10);
+    transition: 400ms;
 
 }
 .pricingSection{
