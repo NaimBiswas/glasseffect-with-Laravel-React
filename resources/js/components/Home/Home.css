@@ -217,3 +217,27 @@ h2{
     content: "";
 
 }
+.pricingSection h4{
+    color: #636363;
+    font-size: 28px;
+    font-weight: 700;
+    font-family: monospace;
+    padding-top: 54px;
+}
+
+.pricingSection h5{
+        padding-top: 20px;
+    font-family: cursive;
+    font-size: 55px;
+    line-height: 60px;
+    margin-bottom:30px;
+}
+.pricingSection p{
+    width: 62%;
+    font-family: inherit;
+    margin: 0 auto;
+      font-size:18px;
+    line-height: 36px;
+    color: #606060;
+    margin-bottom: 50px;
+}
