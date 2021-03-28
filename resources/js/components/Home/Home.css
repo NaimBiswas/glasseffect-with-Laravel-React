@@ -116,12 +116,14 @@ h2{
     font-family: unset;
     color: #ffffff;
     transition: 500ms;
+   box-shadow: 3px 5px 12px 0px #e845458c;
 }
 .startNowButton:hover{
     background: transparent;
     border: 1px solid #bbbbbb;
     color: #1b1717;
     transition: 500ms;
+    box-shadow: none;
 }
 .sectionBottom{
         padding-top: 100px;
