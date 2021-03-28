@@ -5,6 +5,14 @@ import Rocket from '../SVG/Rocket.svg'
 import Settings from '../SVG/Settings.svg'
 import World from '../SVG/World.svg'
 import Data from '../SVG/Data.svg'
+import Code from '../SVG/Code.svg'
+import Doc from '../SVG/Doc.svg'
+import Pie from '../SVG/Pie.svg'
+import PieTwo from '../SVG/PieTwo.svg'
+import Search from '../SVG/Search.svg'
+
+
+
 const Home = () => {
     return (
         <Fragment>
@@ -205,11 +213,11 @@ const Home = () => {
                                         <div className="card" >
                                             <div className="card-body">
                                                 <h5 className="card-title">
-                                                    <img className="SvgCard" src={Rocket} alt="" />
+                                                    <img className="SvgCard" src={Pie} alt="" />
                                                 </h5>
-                                                <h6 className="card-subtitle mb-2 ">Awesome Results</h6>
+                                                <h6 className="card-subtitle mb-2 ">Content Marketing</h6>
                                                 <p className="card-text">
-                                                    We have seen great successes with everyone companies.
+                                                    You can provide the answers that your potential customers are trying to find, so you can become the industry.
                                                       </p>
                                                 <a href="#"><button className="startNowButton">
                                                     Learn More
