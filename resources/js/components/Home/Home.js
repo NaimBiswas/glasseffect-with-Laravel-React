@@ -446,7 +446,46 @@ const Home = () => {
 
                         {/* review section  */}
                         <section>
+                            <div className="container-fluid">
+                                <div className="container">
+                                    <div className="ReviewSec">
+                                        <div className="row">
+                                            <div className="col-lg-3 col-md-3 col-sm-3 col-xs-12">
+                                                <h4 className="text-center"><li>ACtive Clients</li></h4>
+                                                <h2 className="text-center">  330 +</h2>
+                                            </div>
+                                            <div className="col-lg-3 col-md-3 col-sm-3 col-xs-12">
+                                                <h4 className="text-center">
+                                                    <li>
+                                                        PROJECTS DONE
+                                                    </li>
+                                                </h4>
+                                                <h2 className="text-center"> 850 +</h2>
+                                            </div>
+                                            <div className="col-lg-3 col-md-3 col-sm-3 col-xs-12">
+                                                <h4 className="text-center">
+                                                    <li>
+                                                        TEAM ADVISORS
 
+
+                                                    </li>
+                                                </h4>
+                                                <h2 className="text-center"> 25 +</h2>
+                                            </div>
+                                            <div className="col-lg-3 col-md-3 col-sm-3 col-xs-12">
+                                                <h4 className="text-center">
+                                                    <li>
+                                                        GLORIOUS YEARS
+
+
+                                                    </li>
+                                                </h4>
+                                                <h2 className="text-center"> 10 +</h2>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
                         </section>
                     </div>
                 </div>

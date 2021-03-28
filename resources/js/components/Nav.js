@@ -4,7 +4,7 @@ import { NavLink } from 'react-router-dom'
 const Nav = () => {
     return (
         <Fragment>
-            <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
+            <nav style={{ background: '#e84545' }} className="navbar navbar-expand-lg navbar-dark ">
                 <NavLink className="navbar-brand" to="/">
                     Navbar
                  </NavLink>
@@ -29,11 +29,11 @@ const Nav = () => {
                         </NavLink>
                         </li>
                     </ul>
-                    <NavLink className="btn btn-outline-danger my-2 my-sm-0" exact to="/login">
+                    <NavLink className="btn btn-outline-warning my-2 my-sm-0" exact to="/login">
                         Login
                     </NavLink>
                     <NavLink
-                        className="btn btn-outline-info my-2 my-sm-0 ml-3"
+                        className="btn btn-outline-warning my-2 my-sm-0 ml-3"
                         to="/register"
                     >
                         Register
