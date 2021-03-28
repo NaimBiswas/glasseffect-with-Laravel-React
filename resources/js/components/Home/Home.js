@@ -2,6 +2,9 @@ import React, { Fragment } from 'react'
 import { Carousel } from 'react-bootstrap'
 import './Home.css'
 import Rocket from '../SVG/Rocket.svg'
+import Settings from '../SVG/Settings.svg'
+import World from '../SVG/World.svg'
+import Data from '../SVG/Data.svg'
 const Home = () => {
     return (
         <Fragment>
@@ -56,7 +59,9 @@ const Home = () => {
                                         <div className="col-lg-3 col-md-3 col-sm-6 col-xs-12">
                                             <div className="card" >
                                                 <div className="card-body">
-                                                    <h5 className="card-title">Card title</h5>
+                                                    <h5 className="card-title">
+                                                        <img src={Settings} alt="" />
+                                                    </h5>
                                                     <h6 className="card-subtitle mb-2 text-muted">Card subtitle</h6>
                                                     <p className="card-text">
                                                         Content
@@ -70,7 +75,9 @@ const Home = () => {
                                         <div className="col-lg-3 col-md-3 col-sm-6 col-xs-12">
                                             <div className="card" >
                                                 <div className="card-body">
-                                                    <h5 className="card-title">Card title</h5>
+                                                    <h5 className="card-title">
+                                                        <img src={Data} alt="" />
+                                                    </h5>
                                                     <h6 className="card-subtitle mb-2 text-muted">Card subtitle</h6>
                                                     <p className="card-text">
                                                         Content
@@ -84,7 +91,9 @@ const Home = () => {
                                         <div className="col-lg-3 col-md-3 col-sm-6 col-xs-12">
                                             <div className="card" >
                                                 <div className="card-body">
-                                                    <h5 className="card-title">Card title</h5>
+                                                    <h5 className="card-title">
+                                                        <img src={World} alt="" />
+                                                    </h5>
                                                     <h6 className="card-subtitle mb-2 text-muted">Card subtitle</h6>
                                                     <p className="card-text">
                                                         Content
