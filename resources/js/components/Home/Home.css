@@ -191,8 +191,10 @@ h2{
 .caroselImage{
     filter: grayscale(1);
     transition: 400ms;
+    opacity: .7;
 }
 .caroselImage:hover{
     filter: grayscale(0);
     transition: 400ms;
+    opacity: 1;
 }
