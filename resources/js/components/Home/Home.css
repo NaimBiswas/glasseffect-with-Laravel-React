@@ -60,6 +60,9 @@ section{
     transition: 400ms;
 
 }
+.allCard .SvgCard{
+    margin-bottom: 15px;
+}
 .pricingSection{
     background-image: url('http://templates.thememodern.com/onum/images/shape2-home1.png');
         background-position-x: left;

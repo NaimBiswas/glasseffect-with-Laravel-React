@@ -231,11 +231,65 @@ const Home = () => {
                                         <div className="card" >
                                             <div className="card-body">
                                                 <h5 className="card-title">
-                                                    <img className="SvgCard" src={Rocket} alt="" />
+                                                    <img className="SvgCard" src={PieTwo} alt="" />
                                                 </h5>
-                                                <h6 className="card-subtitle mb-2 ">Awesome Results</h6>
+                                                <h6 className="card-subtitle mb-2 ">Social Marketing</h6>
                                                 <p className="card-text">
-                                                    We have seen great successes with everyone companies.
+                                                    Create and manage top-performing social campaigns and start developing a dedicated customer fan base.
+                                                      </p>
+                                                <a href="#"><button className="startNowButton">
+                                                    Learn More
+                                                    </button></a>
+                                            </div>
+                                        </div>
+                                    </div>
+
+
+                                    <div className="col-lg-4 p-0 m-0">
+                                        <div className="card" >
+                                            <div className="card-body">
+                                                <h5 className="card-title">
+                                                    <img className="SvgCard" src={Doc} alt="" />
+                                                </h5>
+                                                <h6 className="card-subtitle mb-2 ">App Development</h6>
+                                                <p className="card-text">
+                                                    Create, publish, and promote engaging content to generate more traffic and build a dedicated community.
+                                                      </p>
+                                                <a href="#"><button className="startNowButton">
+                                                    Learn More
+                                                    </button></a>
+                                            </div>
+                                        </div>
+                                    </div>
+
+
+                                    <div className="col-lg-4 p-0 m-0">
+                                        <div className="card" >
+                                            <div className="card-body">
+                                                <h5 className="card-title">
+                                                    <img className="SvgCard" src={Search} alt="" />
+                                                </h5>
+                                                <h6 className="card-subtitle mb-2 ">SEO Optimization</h6>
+                                                <p className="card-text">
+                                                    Get more website traffic, more customers, and more online visibility with powerful SEO services.
+                                                      </p>
+                                                <a href="#"><button className="startNowButton">
+                                                    Learn More
+                                                    </button></a>
+                                            </div>
+                                        </div>
+                                    </div>
+
+
+                                    <div className="col-lg-4 p-0 m-0">
+                                        <div className="card" >
+                                            <div className="card-body">
+                                                <h5 className="card-title">
+                                                    <img className="SvgCard" src={Code} alt="" />
+                                                </h5>
+                                                <h6 className="card-subtitle mb-2 ">Web Development</h6>
+                                                <p className="card-text">
+                                                    Your website has to impress your visitors within just a few seconds. If it runs slow, if it feels outdated.
                                                       </p>
                                                 <a href="#"><button className="startNowButton">
                                                     Learn More
@@ -251,63 +305,9 @@ const Home = () => {
                                                 <h5 className="card-title">
                                                     <img className="SvgCard" src={Rocket} alt="" />
                                                 </h5>
-                                                <h6 className="card-subtitle mb-2 ">Awesome Results</h6>
+                                                <h6 className="card-subtitle mb-2 ">PPC Advertising</h6>
                                                 <p className="card-text">
-                                                    We have seen great successes with everyone companies.
-                                                      </p>
-                                                <a href="#"><button className="startNowButton">
-                                                    Learn More
-                                                    </button></a>
-                                            </div>
-                                        </div>
-                                    </div>
-
-
-                                    <div className="col-lg-4 p-0 m-0">
-                                        <div className="card" >
-                                            <div className="card-body">
-                                                <h5 className="card-title">
-                                                    <img className="SvgCard" src={Rocket} alt="" />
-                                                </h5>
-                                                <h6 className="card-subtitle mb-2 ">Awesome Results</h6>
-                                                <p className="card-text">
-                                                    We have seen great successes with everyone companies.
-                                                      </p>
-                                                <a href="#"><button className="startNowButton">
-                                                    Learn More
-                                                    </button></a>
-                                            </div>
-                                        </div>
-                                    </div>
-
-
-                                    <div className="col-lg-4 p-0 m-0">
-                                        <div className="card" >
-                                            <div className="card-body">
-                                                <h5 className="card-title">
-                                                    <img className="SvgCard" src={Rocket} alt="" />
-                                                </h5>
-                                                <h6 className="card-subtitle mb-2 ">Awesome Results</h6>
-                                                <p className="card-text">
-                                                    We have seen great successes with everyone companies.
-                                                      </p>
-                                                <a href="#"><button className="startNowButton">
-                                                    Learn More
-                                                    </button></a>
-                                            </div>
-                                        </div>
-                                    </div>
-
-
-                                    <div className="col-lg-4 p-0 m-0">
-                                        <div className="card" >
-                                            <div className="card-body">
-                                                <h5 className="card-title">
-                                                    <img className="SvgCard" src={Rocket} alt="" />
-                                                </h5>
-                                                <h6 className="card-subtitle mb-2 ">Awesome Results</h6>
-                                                <p className="card-text">
-                                                    We have seen great successes with everyone companies.
+                                                    Target your ideal search phrases and get found at the top of Google’s search results. PPC allows you.immediate.
                                                       </p>
                                                 <a href="#"><button className="startNowButton">
                                                     Learn More
