@@ -326,7 +326,11 @@ const Home = () => {
 
                         <section>
                             <div className="pricingSection">
-
+                                <img src="http://templates.thememodern.com/onum/images/shape2-home1.png" alt="" />
+                                <h4><li>ABOUT US</li></h4>
+                                <h5>Flexible Pricing Plans</h5>
+                                <p>We have experience working with large and small businesses and are ready to
+develop a targeted strategy and plan that’s just right for you.</p>
                             </div>
                         </section>
 
